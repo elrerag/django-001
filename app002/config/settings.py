@@ -30,8 +30,7 @@ ALLOWED_HOSTS = ["localhost", "127.0.0.1", "[::1]", "GITPOD_HOST"]
 
 # gp-url
 CSRF_TRUSTED_ORIGINS = [
-    "https://elrerag-django001-8vcq7y54le8.ws-us65.gitpod.io",
-    "https://8000-elrerag-django001-8vcq7y54le8.ws-us65.gitpod.io"
+    "https://8000-elrerag-django001-t6xnqmpyuf4.ws-us65.gitpod.io"
 ]
 
 # No olvidar en la consola: $ DJANGO_SSO_APP_URL=http://localhost:8000
